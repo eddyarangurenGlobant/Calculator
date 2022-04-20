@@ -1,2 +1,2 @@
-# Calculator
+# Data.Calculator
 Basic calculator.
